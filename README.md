@@ -1,3 +1,9 @@
+# Counter App
+## Beginner App to practice ReactJS (JSX), HTML, CSS.
+## The Website is published at [Here](https://saikat021.github.io/my-counter-app/).
+## Screenshots:
+![](Screenshots.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
